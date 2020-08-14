@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: row;">
   
-  <img src="https://lh3.googleusercontent.com/kE987KCGVOindqJQHQ_NmGb_lrfYAxbhHbDsR5V-yct3BsBGDGC6OyQ3Xa5r8e-Wsr8-BATk_5LTobxE9L_TnJTW-NPVz9tdrm7r4oBpf4rv_xwOOCLOmV-JKyRraIMUncH3xjkMShXAjkZpC41MMlFwb5-GY1zF8rr70lK-ADv0t3hRukyYj1Cc2gJhGlh5wdNTJBeO3VWBi63o93kQ8IPxYy8yyHmlUJF9Pnt5C3SwFs9hBVXYNr9UM7UzFuMyr0QeWHeH_z2KjMAa0l_asBt2mEm9EqU5TyQISrd7ZttQSr1GuEM7WMcZt6r0BUJ2iVC18QFVWXULX5WSuvBUeZW4MQGTzKgb8F0qW4wwOrVFOs4oawzFwt_pe8AL_s2ueD-pwIdEuiJq0GCKeaKJC_GTyO3xobuMkYFe735SGByblXu9vINHDyYQlzyHIR5lZc96WKkA1LeavsQjR8t78Ut99DNcoOIw4IY4o6xWuNqMHkOMw2vG_Q473T-CjMDn_-VLld5Eq9n2cIjcQOlfQrpJyjk3TgRQLwiFmOSU8iL5pX-_Zvw6wYo1YyPQ7UPNL2eNr4qCS7Z_qO4ip37XiIXj2Bt6v9n_SXMLDue3EwwynXw5QuMPeA_41a05l62oUKATRSTy5n4PsOz8Ls4d7op0-DGDByJM-e16FYxybbtuhmSAIJNcGFi9dq_SDA=w1706-h2124-no?authuser=0" alt="jose's tony photo" width="180" />
+  <img src="https://avatars3.githubusercontent.com/u/46795234?s=400&u=90c758bf60d83b129ed25bec4625f0d4b0385e79&v=4" alt="jose's tony photo" width="180" />
   
   <div style="margin-left: 32px">
     <h1>Hi 👋, I'm José Tony</h1>

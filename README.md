@@ -1,12 +1,6 @@
 <div style="display: flex; flex-direction: row;">
-  
-  <img src="https://avatars3.githubusercontent.com/u/46795234?s=400&u=90c758bf60d83b129ed25bec4625f0d4b0385e79&v=4" alt="jose's tony photo" width="180" />
-  
-  <div style="margin-left: 32px">
     <h1>Hi 👋, I'm José Tony</h1>
     <h3 style="max-width: 320px;">Results-oriented programmer switching comfortably between architectures, design and implementation. Comfortable team work or self-directed environment.</h3>
-  </div>
-  
 </div><br /><br />
 
 - 🔭 I’m currently working on [Portal Milpromo](https://github.com/sickocoder/milpromo)
@@ -18,8 +12,6 @@
 - 💬 Feel free to ask me about **Typescript, ReactJS, ReactNative, ExpressJS**
 
 - 📫 Feel free to reach me at my social medias or at **developer.tony17@gmail.com**
-
-- ⚡ Fun fact **I can write with both left and right hand**
 
 <br /><br />
 

@@ -3,7 +3,7 @@
     <h3 style="max-width: 320px;">Results-oriented programmer switching comfortably between architectures, design and implementation. Comfortable team work or self-directed environment.</h3>
 </div><br /><br />
 
-- 🔭 I’m currently working on [Portal Milpromo](https://github.com/sickocoder/milpromo)
+- 🔭 I’m currently working on [Bookando](https://github.com/sickocoder/bookando)
 
 - 🌱 I’m currently learning **TypeScript, AdonisJS, NextJS, Kubernetes, Docker, Unit Testing**
 

@@ -19,15 +19,15 @@
 <h3>These are some of my skills:</h3>
 
 <p align="left" style="font-size: 32px">
-<i class="devicon-react-original"></i>
-<i class="devicon-typescript-plain"></i>
-<i class="devicon-mongodb-plain-wordmark"></i>
-<i class="devicon-firebase-plain-wordmark"></i>
-<i class="devicon-swift-plain"></i>
-<i class="devicon-flutter-plain"></i>
-<i class="devicon-express-original-wordmark"></i>
-<i class="devicon-figma-plain"></i>
-<i class="devicon-xd-plain"></i>
+<i class="devicon-react-original colored"></i>
+<i class="devicon-typescript-plain colored"></i>
+<i class="devicon-mongodb-plain-wordmark colored"></i>
+<i class="devicon-firebase-plain-wordmark colored"></i>
+<i class="devicon-swift-plain colored"></i>
+<i class="devicon-flutter-plain colored"></i>
+<i class="devicon-express-original-wordmark colored"></i>
+<i class="devicon-figma-plain colored"></i>
+<i class="devicon-xd-plain colored"></i>
 </p>
 
 <br /><h3>Follow me on social medias so you can be part of my development.</h3>

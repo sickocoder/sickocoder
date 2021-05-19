@@ -1,23 +1,34 @@
-<div style="display: flex; flex-direction: row;">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<div style="display: flex; flex-direction: column;">
     <h1>Hi 👋, I'm José Tony</h1>
-    <h3 style="max-width: 320px;">Results-oriented programmer switching comfortably between architectures, design and implementation. Comfortable team work or self-directed environment.</h3>
+    <h3 style="max-width: 512px;">Results-oriented programmer switching comfortably between architectures, design and implementation. Comfortable team work or self-directed environment.</h3>
 </div><br /><br />
 
-- 🔭 I’m currently working on [Bookando](https://github.com/sickocoder/bookando)
+- 🔭 I’m currently working on **Bible App**
 
-- 🌱 I’m currently learning **TypeScript, AdonisJS, NextJS, Kubernetes, Docker, Unit Testing**
+- 🌱 I’m currently learning **Dart, Flutter, Unit Testing**
 
 - 📝 I sometimes write articles on [https://medium.com/@jose_tony](https://medium.com/@jose_tony)
 
-- 💬 Feel free to ask me about **Typescript, ReactJS, ReactNative, ExpressJS**
+- 💬 Feel free to ask me about **Flutter, Typescript, ReactJS, ReactNative**
 
-- 📫 Feel free to reach me at my social medias or at **developer.tony17@gmail.com**
+- 📫 Feel free to reach me at my social medias or at **josetone.dev@gmail.com**
 
 <br /><br />
 
 <h3>These are some of my skills:</h3>
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/flutter.svg" alt="flutter" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dart.svg" alt="dart" width="20" height="20"/></p>
+<p align="left" style="font-size: 32px">
+<i class="devicon-react-original"></i>
+<i class="devicon-typescript-plain"></i>
+<i class="devicon-mongodb-plain-wordmark"></i>
+<i class="devicon-firebase-plain-wordmark"></i>
+<i class="devicon-swift-plain"></i>
+<i class="devicon-flutter-plain"></i>
+<i class="devicon-express-original-wordmark"></i>
+<i class="devicon-figma-plain"></i>
+<i class="devicon-xd-plain"></i>
+</p>
 
 <br /><h3>Follow me on social medias so you can be part of my development.</h3>
 

@@ -16,19 +16,10 @@
 
 <br /><br />
 
-<h3>These are some of my skills:</h3>
-
-<p align="left" style="font-size: 32px">
-<i class="devicon-react-original colored"></i>
-<i class="devicon-typescript-plain colored"></i>
-<i class="devicon-mongodb-plain-wordmark colored"></i>
-<i class="devicon-firebase-plain-wordmark colored"></i>
-<i class="devicon-swift-plain colored"></i>
-<i class="devicon-flutter-plain colored"></i>
-<i class="devicon-express-original-wordmark colored"></i>
-<i class="devicon-figma-plain colored"></i>
-<i class="devicon-xd-plain colored"></i>
-</p>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=sickocoder&show_icons=true&theme=midnight-purple"/>
+  <img align="top"src="https://github-readme-stats.vercel.app/api/top-langs/?username=sickocoder&layout=compact&hide=shell&theme=midnight-purple"/>
+</div>
 
 <br /><h3>Follow me on social medias so you can be part of my development.</h3>
 
@@ -38,4 +29,4 @@
 <a href="https://fb.com/artisan17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="artisan17" height="20" width="20" /></a>
 <a href="https://instagram.com/_jose_tony" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_jose_tony" height="20" width="20" /></a>
 <a href="https://medium.com/@jose_tony" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jose_tony" height="20" width="20" /></a>
-</p>
+</p>c

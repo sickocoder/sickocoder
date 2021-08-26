@@ -14,11 +14,7 @@
 
 - 📫 Feel free to reach me at my social medias or at **josetone.dev@gmail.com**
 
-<br /><br />
-
-<div>
-  <img align="top"src="https://github-readme-stats.vercel.app/api/top-langs/?username=sickocoder&layout=compact&hide=shell&theme=midnight-purple"/>
-</div>
+<br />
 
 <br /><h3>Follow me on social medias so you can be part of my development.</h3>
 

@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <div style="display: flex; flex-direction: column;">
     <h1>Hi 👋, I'm José Tony</h1>
-    <h3 style="max-width: 512px;">Results-oriented programmer switching comfortably between architectures, design and implementation. Comfortable team work or self-directed environment.</h3>
-</div><br /><br />
+    <span style="max-width: 512px;">Results-oriented programmer switching comfortably between architectures, design and implementation. Comfortable team work or self-directed environment.</span>
+</div>
 
 - 🔭 I’m currently working on **Bible App**
 

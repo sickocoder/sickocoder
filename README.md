@@ -14,9 +14,7 @@
 
 - 📫 Feel free to reach me at my social medias or at **josetone.dev@gmail.com**
 
-<br />
-
-<br /><h3>Follow me on social medias so you can be part of my development.</h3>
+<br /><span>Follow me on social medias so you can be part of my development.</span>
 
 <p align="left">
 <a href="https://twitter.com/_josetony" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_josetony" height="20" width="20" /></a>
